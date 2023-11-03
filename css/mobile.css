@@ -1,0 +1,18 @@
+@media (max-width: 600px) {
+  body .navbar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  body .nav-item {
+    border-left: none;
+  }
+  body .lylich {
+    border-right: none;
+    margin-right: 0px;
+  }
+  body .duan {
+    border-right: none;
+  }
+}
